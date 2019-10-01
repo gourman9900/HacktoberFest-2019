@@ -11,3 +11,5 @@ Hi, I am [Lakshmi Kittur](https://github.com/lakshmikittur/).
 
 Hi, I am Vikas.
 
+Hi, I am [Paritosh Singh](https://github.com/gourman9900/)
+
